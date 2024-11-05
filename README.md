@@ -29,12 +29,9 @@ Dataset: https://www.kaggle.com/datasets/ambaliyagati/spotify-dataset-for-playin
 
 ## UML Diagram 
 
+[UML Diagram for my project](https://photos.google.com/photo/AF1QipPj897a0nbc-7xA_z_g8u0-d8JxoXBfAHagCeMu)
 
-
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README. 
-
-![UML Diagram for my project](nameOfImageFileHere.png) 
 
 ## Description 
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project
+For my project, I decided to create a user story that goes into depth about making music, paricularly within the most popular genre. With this information, music artists could be more aware of what the young age group listens to which results in higher numbes of streams. In the code, my partner and I added a 1D array that will go through all the txt files that hold the important information such as the genre, duration, and popularity of the song. Diving deeper into the code, we created a traversal to see what genre is the most popular. When the array is fully traverses, the console prints out each varibale and ultimately prints out the genre with the most popular song. We chose the dataset that we chose because it clearly shows the information that we need that will help the user find the information that they're looking for, which is the genre with the most popular song.
